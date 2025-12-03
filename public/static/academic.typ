@@ -1,7 +1,7 @@
 #import "template.typ": cv, entry
 #set text(font: "TeX Gyre Termes")
 #show: cv.with(
-  name: "Janeet Bajracharya",
+  name: "Janeet Bajracharya II",
   metadata: (
     address: "204 W Washington Street, Lexington, Virginia",
     email: "janeetbaj@gmail.com",
