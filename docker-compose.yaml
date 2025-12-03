@@ -1,0 +1,9 @@
+version: "3"
+services:
+  hugo_site:
+    image: nginx:alpine
+    volumes:
+      - /home/ubuntu/academic-cv-site/public/:/usr/share/nginx/html:ro
+    ports:
+      - 8081:80
+
