@@ -1,7 +1,7 @@
 #import "template.typ": cv, entry
 #set text(font: "TeX Gyre Termes")
 #show: cv.with(
-  name: "Janeet Bajracharya II",
+  name: "Janeet Bajracharya",
   metadata: (
     address: "204 W Washington Street, Lexington, Virginia",
     email: "janeetbaj@gmail.com",
@@ -32,7 +32,7 @@ Online Algorithms, Competitive Analysis, Learning-aided Algorithms, Mathematical
   date: "2025",
   location: "Lexington, Virginia & Remote"
 )
-- Selected for a competitive, fully-funded research program to investigate *Online Scheduling algorithms* with _Dr.Kefu Lu_.
+- Was selected for a competitive, fully-funded research program to investigate *Online Scheduling algorithms* with _Dr.Kefu Lu_.
 - *Co-authoring a paper* (_in preparation_) *proving a $(1 + epsilon)$-speed algorithm* that yields a *$O(1\/epsilon^2)$* competitive throughput bound for parallel online scheduling within a Speedup curve model.
 
 - Learned and used the framework for *competitive analysis* and particularly methods of *resource augmentation* to prove reasonable competitive bounds against an adversarial optimal algorithm.
@@ -48,8 +48,8 @@ Online Algorithms, Competitive Analysis, Learning-aided Algorithms, Mathematical
 - Was selected in a competitive, fully-funded research program to research *VPN security* and radio frequency communication with a focus on IEEE 802.11 Wi-Fi protocols with _Dr.William Tolley_.
 - Completed an intensive study of *computer networking*, equivalent to a full-semester course, within one month.
 - Analyzed academic papers on the Great Firewall of China and reviewed C-code used in VPN attacks, adapting techniques for use with software-defined radio (SDR) systems.
-- Contributed to a project resulting in an *abstract accepted* by _*Proceedings on Privacy Enhancing Technologies*_ (PoPETs).
-- Prepared and presented a poster presentation for the SRS Parents' Weekend Event [October 2024] and the WLU Science Advisory Board Poster Session [November 2024] representing the Computer Science Department.
+- Motivated the idea to a project resulting in an *abstract accepted* by _*Proceedings on Privacy Enhancing Technologies*_ (PoPETs).
+- Prepared and presented a *poster presentation* for the SRS Parents' Weekend Event [October 2024] and the *WLU Science Advisory Board* Poster Session [November 2024] representing the Computer Science Department.
 
 = Professional Experience
 
