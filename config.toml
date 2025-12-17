@@ -15,7 +15,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 7
 
   # show selector to switch language
   showLanguageSelector = false
@@ -106,13 +106,18 @@ pagination.pagerSize = 5
           url = "/static/cv.pdf"
         [[languages.en.menu.main]]
           identifier = "ca"
-          name = "Cellular Automaton Gallery"
+          name = "Gallery"
           url = "/cellular-automaton-gallery"
 
         [[languages.en.menu.main]]
           identifier = "linkedin"
           name = "LinkedIn"
           url = "https://www.linkedin.com/in/janeet-bajracharya-74109b219"
+        [[languages.en.menu.main]]
+          identifier = "github"
+          name = "Github"
+          url = "https://github.com/janjanbaj/"
+
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,

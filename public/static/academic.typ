@@ -37,7 +37,7 @@ Online Algorithms, Competitive Analysis, Learning-aided Algorithms, Mathematical
 
 - Learned and used the framework for *competitive analysis* and particularly methods of *resource augmentation* to prove reasonable competitive bounds against an adversarial optimal algorithm.
 - Investigated theoretical distinctions between the Directed Acyclic Graph (DAG) and Speedup curve models of parallelism; proved key results and analyzed the comparative behavior of scheduling algorithms under different models of parallel execution.
-- Prepared and presented a *poster presentation* for the SRS Parents' Weekend Event [October 2025] and the WLU *Science Advisory Board* Poster Session [November 2025], representing the Computer Science Department.
+- Prepared and presented a *poster presentation* for the SRS Parents' Weekend Event [October 2025] and the *WLU Science Advisory Board* Poster Session [November 2025], representing the Computer Science Department.
 
 #entry(
   title: "Summer Research Scholar",

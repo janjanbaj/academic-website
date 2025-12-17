@@ -1,0 +1,27 @@
+<style>
+  .img-left {
+    float: left;
+    margin-right: 20px;   /* Space between image and text */
+    margin-bottom: 10px;  /* Space below image */
+    max-width: 35%;       /* Image takes up 35% of width */
+    height: auto;         /* Maintain aspect ratio */
+    border-radius: 5px;   /* Slight rounding to match modern themes */
+  }
+
+  /* MOBILE RESPONSIVENESS */
+  /* On small screens (phones), disable the float so image stacks on top */
+  @media (max-width: 768px) {
+    .img-left {
+      float: none;
+      display: block;
+      margin: 0 auto 20px auto; /* Center the image */
+      max-width: 80%;
+    }
+  }
+</style>
+
+<img 
+  src="{{ .Get "src" }}" 
+  alt="{{ .Get "alt" }}" 
+  class="img-left"
+>
