@@ -93,7 +93,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "Janeet Bajracharya"
-        logoHomeLink = "/"
+        logoHomeLink = "/about"
 
       [languages.en.menu]
         [[languages.en.menu.main]]

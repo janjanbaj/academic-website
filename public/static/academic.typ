@@ -18,7 +18,7 @@ Online Algorithms, Competitive Analysis, Learning-aided Algorithms, Mathematical
 = Education
 
 #entry(
-  title: "B.S. in Mathematics & B.S. Hons. in Computer Science (GPA: 3.88)",
+  title: "B.S. in Mathematics & B.S. Hons. in Computer Science (GPA: 3.89)",
   name: "Washington and Lee University",
   date: "2022 - 2026 (Expected)",
   location: "Lexington, Virginia"
