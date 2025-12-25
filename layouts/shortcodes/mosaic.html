@@ -1,34 +1,50 @@
+<div class="mosaic-grid" id="mosaic-{{ .Ordinal }}">
+  {{ .Inner | markdownify }}
+</div>
+
 <style>
-
   .mosaic-grid {
-    column-count: 1; /* Default to 1 column for mobile */
+    column-count: 1;
     column-gap: 1rem;
+    width: 100%;
+    margin: 2rem 0;
   }
 
-  /* Medium screens (tablets) */
-  @media (min-width: 600px) {
-    .mosaic-grid {
-      column-count: 2;
-    }
-  }
+  @media (min-width: 600px) { .mosaic-grid { column-count: 2; } }
+  @media (min-width: 900px) { .mosaic-grid { column-count: 3; } }
 
-  /* Large screens (laptops/desktops) */
-  @media (min-width: 900px) {
-    .mosaic-grid {
-      column-count: 3;
-    }
-  }
-
+  /* Target the images directly and their parent containers */
   .mosaic-grid img {
-    width: 100%;       /* Force image to fit the column width */
-    height: auto;      /* Maintain aspect ratio */
-    display: block;
-    margin-bottom: 1rem; /* Space between images vertically */
-    break-inside: avoid; /* Prevent images from being cut across columns */
-    border-radius: 1px; /* Optional: adds rounded corners */
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 0 1rem 0 !important; /* Bottom margin only */
+    break-inside: avoid;
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+
+  /* Remove margins from the <p> tags Hugo creates automatically */
+  .mosaic-grid p {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: contents; /* Makes the <p> tag 'invisible' to the layout */
   }
 </style>
 
-<div class="mosaic-grid">
-  {{ .Inner | markdownify }}
-</div>
+<script>
+  // This ensures that even if Hugo wraps images in P tags, 
+  // they won't break the column flow.
+  document.addEventListener("DOMContentLoaded", function() {
+    const grid = document.getElementById("mosaic-{{ .Ordinal }}");
+    const images = grid.getElementsByTagName('img');
+    for (let img of images) {
+      // Ensure the parent of the image doesn't break across columns
+      img.parentElement.style.breakInside = "avoid";
+      img.parentElement.style.display = "inline-block";
+      img.parentElement.style.width = "100%";
+    }
+  });
+</script>

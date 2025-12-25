@@ -203,47 +203,61 @@
 
   <div class="post-content"><div>
         <p>These are some of the Cellular Automaton that I have generated using custom rule sets that I tinkered around with during 2021! Check my Github for the Source Code for all these:</p>
-<style>
-
-  .mosaic-grid {
-    column-count: 1;  
-    column-gap: 1rem;
-  }
-
-   
-  @media (min-width: 600px) {
-    .mosaic-grid {
-      column-count: 2;
-    }
-  }
-
-   
-  @media (min-width: 900px) {
-    .mosaic-grid {
-      column-count: 3;
-    }
-  }
-
-  .mosaic-grid img {
-    width: 100%;        
-    height: auto;       
-    display: block;
-    margin-bottom: 1rem;  
-    break-inside: avoid;  
-    border-radius: 1px;  
-  }
-</style>
-
-<div class="mosaic-grid">
+<div class="mosaic-grid" id="mosaic-0">
   <img src="/images/ca-gallery/dinosaurs.gif" alt="Description of gif 1">
 <img src="/images/ca-gallery/3x&#43;1.gif" alt="Description of gif 3">
 <img src="/images/ca-gallery/dark.gif" alt="Description of gif 4">
 <img src="/images/ca-gallery/int.gif" alt="Description of gif 5">
 <img src="/images/ca-gallery/z2.gif" alt="Description of gif 6">
 <img src="/images/ca-gallery/bruh.gif" alt="Chemistry Reaction">
-<img src="https://pyxis.nymag.com/v1/imgs/373/3d3/7e1887e0aaa87cb7fca166d6d73fe18c57-rama-duwaji-cut-cover-FINAL.2x.w710.jpg" alt="Meow">
 </div>
 
+<style>
+  .mosaic-grid {
+    column-count: 1;
+    column-gap: 1rem;
+    width: 100%;
+    margin: 2rem 0;
+  }
+
+  @media (min-width: 600px) { .mosaic-grid { column-count: 2; } }
+  @media (min-width: 900px) { .mosaic-grid { column-count: 3; } }
+
+   
+  .mosaic-grid img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 0 1rem 0 !important;  
+    break-inside: avoid;
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+
+   
+  .mosaic-grid p {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: contents;  
+  }
+</style>
+
+<script>
+  
+  
+  document.addEventListener("DOMContentLoaded", function() {
+    const grid = document.getElementById("mosaic-0");
+    const images = grid.getElementsByTagName('img');
+    for (let img of images) {
+      
+      img.parentElement.style.breakInside = "avoid";
+      img.parentElement.style.display = "inline-block";
+      img.parentElement.style.width = "100%";
+    }
+  });
+</script>
 
       </div></div>
 

@@ -8,11 +8,8 @@ no-index: true
 Here lies a collection of my favorite artists and pieces that I have come across (with reflections if I had anything interesting to say about the piece).
 
 
-# Collected Artists:
 
-
-
-* Szilveszter Makó:
+##  Szilveszter Makó:
 Starting off with a topical (at least on the 25th of December 2025) is Szilveszter Mako with his work with Rama Duwaji.
 {{< mosaic >}}
 ![The Cut Cover](https://pyxis.nymag.com/v1/imgs/373/3d3/7e1887e0aaa87cb7fca166d6d73fe18c57-rama-duwaji-cut-cover-FINAL.2x.w710.jpg)
