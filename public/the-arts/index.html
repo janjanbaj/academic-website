@@ -107,7 +107,7 @@ Szilveszter Makó: Starting off with a topical (at least on the 25th of December
 <body>
 
 
-<div class="container center">
+<div class="container full">
 
   <header class="header">
   <div class="header__inner">
@@ -257,6 +257,61 @@ Szilveszter Makó: Starting off with a topical (at least on the 25th of December
     }
   });
 </script></p>
+<h2 id="sergio-larrain">Sergio Larrain:<a href="#sergio-larrain" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>A Black and White Chilean Photographer. Interesting compositions:</p>
+<div class="mosaic-grid" id="mosaic-1">
+  <img src="https://www.magnumphotos.com/wp-content/uploads/2025/12/PAR190416_.jpg" alt="The Traveler">
+<img src="https://www.magnumphotos.com/wp-content/uploads/2023/10/Sergio-Larrain.jpg" alt="">
+<img src="https://www.magnumphotos.com/wp-content/uploads/2024/09/PAR56955_.jpg" alt="">
+<img src="https://www.exibartstreet.com/wp-content/uploads/2020/10/sergio-larrain-londres-exibart-street-photography-00.jpg" alt="">
+</div>
+
+<style>
+  .mosaic-grid {
+    column-count: 1;
+    column-gap: 1rem;
+    width: 100%;
+    margin: 2rem 0;
+  }
+
+  @media (min-width: 600px) { .mosaic-grid { column-count: 2; } }
+  @media (min-width: 900px) { .mosaic-grid { column-count: 3; } }
+
+   
+  .mosaic-grid img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 0 1rem 0 !important;  
+    break-inside: avoid;
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+
+   
+  .mosaic-grid p {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: contents;  
+  }
+</style>
+
+<script>
+  
+  
+  document.addEventListener("DOMContentLoaded", function() {
+    const grid = document.getElementById("mosaic-1");
+    const images = grid.getElementsByTagName('img');
+    for (let img of images) {
+      
+      img.parentElement.style.breakInside = "avoid";
+      img.parentElement.style.display = "inline-block";
+      img.parentElement.style.width = "100%";
+    }
+  });
+</script>
 
       </div></div>
 

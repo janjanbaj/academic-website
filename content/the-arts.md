@@ -17,3 +17,14 @@ Starting off with a topical (at least on the 25th of December 2025) is Szilveszt
 ![The Cut 2](https://pyxis.nymag.com/v1/imgs/956/e0e/de4a17c89ff054bf88407908883ba026cf-szilveszter-mako-the-CUT-RAMA--16-of-19-.2x.w710.jpg)
 
 {{< /mosaic >}}
+
+## Sergio Larrain:
+A Black and White Chilean Photographer. Interesting compositions:
+
+
+{{< mosaic >}}
+![The Traveler](https://www.magnumphotos.com/wp-content/uploads/2025/12/PAR190416_.jpg)
+![](https://www.magnumphotos.com/wp-content/uploads/2023/10/Sergio-Larrain.jpg)
+![](https://www.magnumphotos.com/wp-content/uploads/2024/09/PAR56955_.jpg)
+![](https://www.exibartstreet.com/wp-content/uploads/2020/10/sergio-larrain-londres-exibart-street-photography-00.jpg)
+{{< /mosaic >}}
