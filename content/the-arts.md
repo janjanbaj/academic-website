@@ -2,11 +2,11 @@
 title: Personal Art Gallery
 date: 2025-12-24
 draft: false
+fullWidthPage: true
 no-index: true
 ---
 
 Here lies a collection of my favorite artists and pieces that I have come across (with reflections if I had anything interesting to say about the piece).
-
 
 
 ##  Szilveszter Makó:
