@@ -15,8 +15,9 @@ A general goal of mine is to read more books! Here is a list of books that I hav
    - Watched a movie with a professor and friends, ended up being a pretty explicit and gnarly movie. However, the story always seemed appealing.
 - If Beale Street Could Talk - James Baldwin
 - Careless People - Sarah Wynn-Williams
-   - Everyone bad but me. But an interesting account of what is going on from the top of the mountain.
+   - "Everyone is doing immoral things but me". But an interesting account of what is going on from the top of the mountain.
 - Everything is Tuberculosis - John Green
+   - Video by [Angela Collier](https://www.youtube.com/@acollierastro) was the reason I listened to this book. 
 - The Woman in the Dunes - Kobo Abe
    - Watched the Criterion Collection movie of this and was inspired enough to read the book.
    - Suffocating.
