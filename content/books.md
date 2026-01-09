@@ -11,8 +11,9 @@ A general goal of mine is to read more books! Here is a list of books that I hav
 # 2025:
 - **(In Progress) Status and Culture - W. David Marx**
    - Part of my reflections on taste, and performativity.
+<!--# 
 - **(In Progress) Hard to be a God - Arkady and Boris Strugatsky**
-   - Watched a movie with a professor and friends, ended up being a pretty explicit and gnarly movie. However, the story always seemed appealing.
+  - Watched a movie with a professor and friends, ended up being a pretty explicit and gnarly movie. However, the story always seemed appealing.  -->
 - If Beale Street Could Talk - James Baldwin
 - Careless People - Sarah Wynn-Williams
    - "Everyone is doing immoral things but me". But an interesting account of what is going on from the top of the mountain.
