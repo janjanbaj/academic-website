@@ -5,7 +5,7 @@
   metadata: (
     address: "204 W Washington Street, Lexington, Virginia",
     email: "janeetbaj@gmail.com",
-    telephone: "+xxxxxxxxx",
+    telephone: "+xxxxxxxxx[Email for this information]",
   ),
   lang: "en",
 )
@@ -23,7 +23,7 @@ Online Algorithms, Competitive Analysis, Learning-aided Algorithms, Mathematical
   date: "2022 - 2026 (Expected)",
   location: "Lexington, Virginia"
 )
-- *Mathematics Courses:* Calculus 1-3, Linear Algebra, Ordinary Differential Equations, Partial Differential Equations, Probability, Combinatorics, Real Analysis, Abstract Algebra, Set Theory, Geometry, Complex Analysis, and Graph Theory.
+- *Mathematics Courses:* Calculus 1-3, Linear Algebra, Ordinary Differential Equations, Partial Differential Equations, Probability, Combinatorics, Real Analysis, Abstract Algebra, Set Theory, Geometry, Complex Analysis.
 - *Computer Science Courses:* Introduction to Programming, Data Structures, Software Development, Systems Programming, Computer Organization, Parallel Computing, Neuromorphic Computing, Theory of Computation, Linux Systems, Computer Graphics, Algorithms, Computer Networks, Programming Language Design, and Artificial Intelligence.
 = Research Experience
 #entry(
