@@ -103,7 +103,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "cv"
           name = "CV"
-          url = "/static/cv.pdf"
+          url = "/pdf/cv.pdf"
         [[languages.en.menu.main]]
           identifier = "Ps"
           name = "Personal"

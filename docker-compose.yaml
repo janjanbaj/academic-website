@@ -3,7 +3,7 @@ services:
   hugo_site:
     image: nginx:alpine
     volumes:
-      - /home/ubuntu/academic-cv-site/public/:/usr/share/nginx/html:ro
+      - /home/erp/academic-website/public:/usr/share/nginx/html:ro,z
     ports:
-      - 8081:80
+      - 801:80
 

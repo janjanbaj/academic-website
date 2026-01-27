@@ -7,10 +7,12 @@ noindex: true
 ---
 
 A general goal of mine is to read more books! Here is a list of books that I have read in recent memory (since 2025):
+# 2026:
 
-# 2025:
 - **(In Progress) Status and Culture - W. David Marx**
    - Part of my reflections on taste, and performativity.
+
+# 2025:
 <!--# 
 - **(In Progress) Hard to be a God - Arkady and Boris Strugatsky**
   - Watched a movie with a professor and friends, ended up being a pretty explicit and gnarly movie. However, the story always seemed appealing.  -->
