@@ -5,12 +5,21 @@ date: 2026-01-17
 Here are the shows that I have watched in recent memory:
 
 # 2026:
-- **Pitt - Season 2 (Current)**
-- **The Diplomat - Season 1 (Current)**
+- **Pitt - Season 2 (Current)**:
+  - Was not aware the Pitt had a [Stan](https://www.urbandictionary.com/define.php?term=Stan) Community. Quite the queer and raunchy bunch they are.
 - **It's Always Sunny in Philadelphia - Season 1,2 (Current)**
-- *Mad Men _Creator's Commentary_ - Season 1 (Current)*
+- **Mad Men _Creator's Commentary_ - Season 1 (Current)**
+- **(Rewatch)** Game of Thrones - Season 1:
+  - Rewatched the first season over the span of two days! There was so mcuh to read into in every dialogue, interaction, subtle camera pans having watched the series already. 
+- A Knight of the Seven Kingdoms ⭐:
+    - A refreshing direction to take in the expansive world of Westeros. Two episodes in, I am comfortably settled into this show. It was quite jarring having a harsh flashback in a GOT-esque show and deadpan bits being in full display, but as the scene that follows the theme song seems to imply, this show is taking another approach to the GOT IP.
+    - On Episode 4 at the moment. So tense, so funny. The comedic timing and pacing of the story are oh so good! The flash of red right before Ser Dunk charges was chilling, along with the sound design that complemented it. 
+    - An amazing series! Beautiful acting and writing. Has me completely enamoured with the GoT franchise once again. Has given the friend group an abundance of material to discuss. 
+- The Diplomat - Season 1, 2, 3:
+    - Quite impressed by the quality of the show, though I am not sold on the central plot with the British ship. The Season 2 finale had me ROFL! Some might call it sloppy, but I thought it was hilarious yet tense.    
+    - Season 3 was fine. Did not have any big opinions on it. The intermingling of Kate and Hal's relationship is fierce but repetitive.
 - Landman - Season 2:
-    - Holy moly!! What a way to end a season! I was getting sick of the show and the sluggery it had become. From the unbearable, boomer-appeasing escapades that Angela and Ainsley are caught up in, to the nonsensical filler that Cooper and Ariana are perpetually doomed to. The fate of the once-thrilling, narcos-stealing, plane-hijacking, thing-blowing-up show felt doomed—to the point where I forgot why I even watched it. The finale, though, brought it right back to where it needed to be with its gripping thrills and tension reminding me why I watch this show in the first place.  Despite some plotlines feeling forced, like Cami's wild-catting being pure "rage-bait" and Miss Type-A Lawyer Lady's frictionless acceptance as chief legal council at a substantially lesser firm, I’m glad I got THIS finale as opposed to what could have been if one were to extrapolate the direction of this season. 
+    - Holy moly!! What a way to end a season! I was getting sick of the show and the sluggishness it had become. From the unbearable, boomer-appeasing escapades that Angela and Ainsley are caught up in, to the nonsensical filler that Cooper and Ariana are perpetually doomed to. The fate of the once-thrilling, narcos-stealing, plane-hijacking, thing-blowing-up show felt doomed—to the point where I forgot why I even watched it. The finale, though, brought it right back to where it needed to be with its gripping thrills and tension, reminding me why I watch this show in the first place.  Despite some plotlines feeling forced, like Cami's wild-catting being pure "rage-bait" and Miss Type-A Lawyer Lady's frictionless acceptance as chief legal counsel at a substantially lesser firm, I’m glad I got THIS finale as opposed to what could have been if one were to extrapolate the direction of this season. 
 
 
 # 2025:
@@ -19,29 +28,35 @@ Here are the shows that I have watched in recent memory:
 - The Studio - Season 1
 - The Bear - Season 4
 - Landman - Season 1
-- Moral Orel 
-- Severance - Season 2
-- Mad Men - All
+- Moral Orel ⭐  
+- Severance - Season 2 ⭐
+- Mad Men - All ⭐
 - Halt and Catch Fire - Season 1-4
+- The West Wing
+- What We Do in the Shadows - Season 1-6 ⭐
 
 # Other:
 - Barry
 - Succession
-- Veep (x2)
-- The West Wing
-- Better Call Saul
+- Veep (x2) ⭐
+- Better Call Saul ⭐
 - Breaking Bad
 - 30 Rock
 - Malcom in the Middle
 - House M.D
 - South Park (x3 / 4)
-- Nathan For You
+- Nathan For You ⭐
 - The Rehersal
 - Shrinking - Season 1/2 
 - The Serpant 
 - Game of Thrones
+- House of the Dragon
 - Seinfield
 - Curb your Enthusiasm
 - How I Met Your Mother 
 - Business Proposal
 - The Last of Us - Season 1
+- Silicon Valley
+- Shōgun
+- Sherlock
+- Wednesday

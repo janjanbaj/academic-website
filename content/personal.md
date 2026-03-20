@@ -11,7 +11,6 @@ Here are some further links to some personal things that I enjoy and would like 
 
 # [TV-Shows](https://janeetbajracharya.com.np/tv-shows)
 # [Books](https://janeetbajracharya.com.np/books)
-# [Essays](https://janeetbajracharya.com.np/bible)
 # [Art and Media](https://janeetbajracharya.com.np/the-arts)
 # [Movies (i.e Letterboxd)](https://letterboxd.com/janjanjanbaj/)
 # [Music (i.e Spotify)](https://open.spotify.com/user/janeetbaj)

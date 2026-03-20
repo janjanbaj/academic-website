@@ -1,6 +1,6 @@
-version: "3"
 services:
   hugo_site:
+    restart: always
     image: nginx:alpine
     volumes:
       - /home/erp/academic-website/public:/usr/share/nginx/html:ro,z
