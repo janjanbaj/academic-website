@@ -14,4 +14,5 @@ My research interests lie at the intersection of theory and machine learning, pa
 My previous work has involved research in :
 * Online Scheudling for Maximizing Throughput in Speedup Curves
 * Off-Path VPN Security Analysis.
+* Mechanism Design
 
