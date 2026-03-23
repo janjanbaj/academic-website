@@ -5,10 +5,11 @@ date: 2026-01-17
 Here are the shows that I have watched in recent memory:
 
 # 2026:
-- **Yellowstone - Season 1 (Current)**:
-    - Currently in Episode 1. Only really watch it in the 10 minutes that I take off from TA hours to eat dinner. Been lost as to what is happening in the story but it does look quite sick! I find that one miserable female lead to be uncool and doing too much.
 - **Pitt - Season 2 (Current)**:
   - Was not aware the Pitt had a [Stan](https://www.urbandictionary.com/define.php?term=Stan) Community. Quite the queer and raunchy bunch they are.
+  - Loved Episode 10 and how uncomfortable it made me. The subtle ways that things happen really do fly over my head and if it were not for twitter posts metioning them, I would be in the dark. Robby is definitely not coming back alive if he leaves this shift. Him telling Dr. Mohan that the walls of the ER have to be a fortress with nothing from outside seeping in is funny because clearly everything seeps outwards for him. The pan to Robby when the mom of the heatstroke kid recalls her child just ridding, and ridding till he was not was beautiful!
+- **Yellowstone - Season 1 (Current)**:
+    - Currently in Episode 1. Only really watch it in the 10 minutes that I take off from TA hours to eat dinner. Been lost as to what is happening in the story but it does look quite sick! I find that one miserable female lead to be uncool and doing too much.
 - **It's Always Sunny in Philadelphia - Season 1,2 (Current)**: On and Off
 - **(Rewatch)** Game of Thrones - Season 1:
   - Rewatched the first season over the span of two days! There was so mcuh to read into in every dialogue, interaction, subtle camera pans having watched the series already. 
