@@ -11,7 +11,7 @@ Here are some further links to some personal things that I enjoy and would like 
 
 # [TV-Shows](https://janeetbajracharya.com.np/tv-shows)
 # [Books](https://janeetbajracharya.com.np/books)
-# [Art and Media](https://janeetbajracharya.com.np/the-arts)
+# [Photography](https://janeetbajracharya.com.np/photography/)
 # [Movies (i.e Letterboxd)](https://letterboxd.com/janjanjanbaj/)
 # [Music (i.e Spotify)](https://open.spotify.com/user/janeetbaj)
 # [Custom Rule Set Game of Life](https://janeetbajracharya.com.np/gol)
