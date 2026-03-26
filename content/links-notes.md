@@ -1,25 +1,27 @@
 # www.theatlantic.com
 
-## [The Incredible Story of the Cartel Olympics - The Atlantic](https://www.theatlantic.com/magazine/2026/05/mexico-cartel-la-union-tepito/686453/)
-_3/20/2026, 3:15:21 PM_
-> The Incredible Story of the Cartel Olympics
-- okinijinmim
+## [The Countdown to a Ground War - The Atlantic](https://www.theatlantic.com/international/2026/03/ground-war-iran-israel-trump/686556/)
 
-## [The Incredible Story of the Cartel Olympics - The Atlantic](https://www.theatlantic.com/magazine/2026/05/mexico-cartel-la-union-tepito/686453/)
-_3/20/2026, 3:22:34 PM_
-> Men with machine guns, wearing tactical gear, spilled out and started barking orders and threats: ¡Entren todos! ¡Ahora mismo, hijos de puta! Were they police? Military? Mau couldn’t tell, and there was no time to ask for identification. Within second
-- 
+> able before the bombing campaign began.
 
-## [The Incredible Story of the Cartel Olympics - The Atlantic](https://www.theatlantic.com/magazine/2026/05/mexico-cartel-la-union-tepito/686453/)
-_3/20/2026, 3:22:37 PM_
-> Mau woke on the floor of a dank, windowless room with a single mattress and a bucket in one corner. His wallet was gone; so was his phone. He had no idea where he was or why he’d been taken, but for the next few days, he and several other captives held with him were beaten and tortured. Men took turns pummeling him—­breaking his ribs and pulling out his fingernails. When he tried to ask what they wanted, the beatings only got worse.
+Iran’s counter-framework reflects a regime that does not believe it is losing. Tehran is demanding binding guarantees that neither the United States nor Israel will strike again, reparations for the damage already inflicted, and formal recognition of its control over the Strait of Hormuz. On e
 
+- asdfdsafd
 
-- adsfsadfdas
+_3/26/2026, 5:11:34 PM_
 
-## [The Incredible Story of the Cartel Olympics - The Atlantic](https://www.theatlantic.com/magazine/2026/05/mexico-cartel-la-union-tepito/686453/)
-_3/20/2026, 3:22:47 PM_
-> Men with machine guns, wearing tactical gear, spilled out and started barking orders and th
-- asdfsdaf
+> ap between the two sides makes the collapse of talks likely. The American framework is, in essence, a demand for Iran’s surrender. The administration’s 15-point proposal, delivered to Iran via Pakistan, requires Tehran to dismantle its entire uranium-enrichment infrastructure, surrender its stockpiles of highly enriched uranium, sever all tie
 
+- sdf
 
+_3/26/2026, 5:11:29 PM_
+
+---
+
+## [The Atlantic](https://www.theatlantic.com/)
+
+> The president wants to avoid a long, messy entanglement, but all of the ground options promise to be just tha
+
+- gg
+
+_3/26/2026, 5:11:17 PM_
