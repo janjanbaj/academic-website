@@ -4,7 +4,8 @@ date: 2025-12-30
 draft: false
 no-index: true
 ---
-Currently: Lexington, VA @ Washington and Lee University.  
+Currently: Lexington, VA @ Washington and Lee University. Working on my Honors Thesis!!!!! 
+
 
 Here are some further links to some personal things that I enjoy and would like to share:
 
