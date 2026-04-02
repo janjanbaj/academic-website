@@ -2,6 +2,9 @@ A list of tech, articles, tools that I have seen over the years that I think mig
 ### Technologies and Other Stuff For Reference
 
 
+# People 
+* [brson.github.io](https://brson.github.io/) – Early Rust contributor, Tigerbeetle developer; includes a detailed worklog.
+* [Joshu Gans](https://www.joshuagans.com/) - Mechanism Design, Economics.
 
 # Code Tools:
 * [GitIngest](https://gitingest.com/) - When using LLMs it is better to give them a markdown of all the code so that they can help you with a repo.
@@ -15,10 +18,6 @@ A list of tech, articles, tools that I have seen over the years that I think mig
 
 * [LPE-Delloite,Equifax Exploitation of Friction and Data](https://lpeproject.org/blog/the-means-testing-industrial-complex/) - An article of bad-faith, borderline illegal practices that companies like Delloite and Equifax employ to milk the glutted cow that is the Federal Government.
 
-# People 
-
-* [brson.github.io](https://brson.github.io/) – Early Rust contributor, Tigerbeetle developer; includes a detailed worklog.
-* [Joshu Gans](https://www.joshuagans.com/) - Mechanism Design, Economics.
 
 # Efficient Browser Visualizations 
 
