@@ -2,6 +2,7 @@ A list of tech, articles, tools that I have seen over the years that I think mig
 ### Technologies and Other Stuff For Reference
 
 
+
 # Code Tools:
 * [GitIngest](https://gitingest.com/) - When using LLMs it is better to give them a markdown of all the code so that they can help you with a repo.
 * [GitDiagram](https://gitdiagram.com/) - Somehow visualizes how each component of a Git Repo interacts with another component. Did a pretty insane job with the Pocketbase Repo.
@@ -16,6 +17,7 @@ A list of tech, articles, tools that I have seen over the years that I think mig
 # People 
 
 * [brson.github.io](https://brson.github.io/) – Early Rust contributor, Tigerbeetle developer; includes a detailed worklog.
+* [Joshu Gans](https://www.joshuagans.com/) - Mechanism Design, Economics.
 
 # Efficient Browser Visualizations 
 
