@@ -6,6 +6,7 @@ A list of tech, articles, tools that I have seen over the years that I think mig
 # Code Tools:
 * [GitIngest](https://gitingest.com/) - When using LLMs it is better to give them a markdown of all the code so that they can help you with a repo.
 * [GitDiagram](https://gitdiagram.com/) - Somehow visualizes how each component of a Git Repo interacts with another component. Did a pretty insane job with the Pocketbase Repo.
+
 # Websites 
 * [Kiel Institut](https://www.kielinstitut.de/) - Economics, Data, Policy 
 * [Asterik Magazine](https://asteriskmag.com/) - Technology, Culture, etc.
