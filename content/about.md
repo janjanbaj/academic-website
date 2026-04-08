@@ -12,7 +12,7 @@ My name is Janeet Bajracharya, and I am a B.S. Mathematics and B.S. Computer Sci
 My research interests lie at the intersection of theory and machine learning, particularly in the design of learning-augmented algorithms.
 
 My previous work has involved research in :
-* Online Scheudling for Maximizing Throughput in Speedup Curves
+* Online Scheduling: Maximizing Throughput in Speedup Curves
 * Off-Path VPN Security Analysis.
 * Mechanism Design
 
