@@ -5,11 +5,16 @@ date: 2026-01-17
 Here are the shows that I have watched in recent memory:
 
 # 2026:
-- **Yellowstone - Season 1 (Current)**:
+- **Yellowstone - Season 1-4 (Current)**:
     - Currently in Episode 1. Only really watch it in the 10 minutes that I take off from TA hours to eat dinner. Been lost as to what is happening in the story but it does look quite sick! I find that one miserable female lead to be uncool and doing too much.
     - Admist working on my thesis I have found a three hour stretch, subtracted from time that I could be sleeping, to binge watch a good 4 episodes on my way to episode 7! Really like what the show is putting on about now. Beth has really warmed up to me about now and I appreciate her acting a lot more. Cannot unsee how similar this is to Landman especially with Kayce and Cooper being essentially the same character. I really want to work/own a ranch (not the sauce).
-- **Pitt - Season 2 (Current)**:
+    - After binging through most of the first three seasons through finals week, I am now in the last season. The story definitely has slowed down. Jimmy exiting the story definitely has left an empty hole in the plot. 
+    - Taylor Sheridan can definitely make a good-looking, high-action Western!
+    - Really loved the excursion to Texas with Jimmy. The _6666_ ranch is absurdly cool; crazy that Taylor Sheridan also owns part of that!
+
+- Pitt - Season 2:
   - Loved Episode 10 and how uncomfortable it made me. The subtle ways that things happen really do fly over my head and if it were not for twitter posts metioning them, I would be in the dark. Robby is definitely not coming back alive if he leaves this shift. Him telling Dr. Mohan that the walls of the ER have to be a fortress with nothing from outside seeping in is funny because clearly everything seeps outwards for him. The pan to Robby when the mom of the heatstroke kid recalls her child just ridding, and ridding till he was not was beautiful!
+  - Great season! Loved Naoh Wyle's performance. The impending nature of Robby's breakdown was beautifully executed! Frick the twitter stans for woke-maxxing this show.
 
 - A Knight of the Seven Kingdoms ⭐:
     - A refreshing direction to take in the expansive world of Westeros. Two episodes in, I am comfortably settled into this show. It was quite jarring having a harsh flashback in a GOT-esque show and deadpan bits being in full display, but as the scene that follows the theme song seems to imply, this show is taking another approach to the GOT IP.
