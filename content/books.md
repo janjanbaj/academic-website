@@ -9,8 +9,16 @@ noindex: true
 A general goal of mine is to read more books! Here is a list of books that I have read in recent memory (since 2025):
 # 2026:
 
+- **(In Progress) Who Gets What — and Why - Alvin Roth**
+   - Readings into Markets, AGT.
+   - Thick vs Thin, Unraveling, 
+   - Gale-Shapley.
+
 - **(In Progress) Status and Culture - W. David Marx**
    - Part of my reflections on taste, and performativity.
+   - Conspicuous Consumption, Signaling.
+   - "Taste is purely a middle class things, the rich do not need it and the poor can't afford it".
+   
 
 # 2025:
 <!--# 
