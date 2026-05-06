@@ -9,4 +9,5 @@ Some pictures that I have taken with my Fujifilm XE-3.
 {{< mosaic >}}
 ![We Balling](/images/photography/mendrel-bb-1.jpg)
 ![Chaotic Projections of Higher Dimensions](/images/photography/terry-chaos.jpg)
+![Karmic Twist](/images/photography/terry-apparition.jpg)
 {{</ mosaic >}}
