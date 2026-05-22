@@ -6,6 +6,8 @@ Here are the shows that I have watched in recent memory:
 
 # 2026:
 
+BLAH BLAH BLAH
+
 - **The Great - Season 1,2,3 (Current)**:
     - Amazing show! Truly funny and well written. The first episode was a masterclass in comedy and world building. Love the intentional omission of historical accuracies.
     - Peter and Catherine have such a tense and amazing arc that makes sense and has played out perfectly. Catherine is much like Peter in many ways.
