@@ -1,40 +1,35 @@
-Listed directory academic-website
-Viewed photography.md:1-11
-Searched for files: mosaic.html
-Viewed mosaic.html:1-50
-Viewed config.toml:1-129
-Viewed mosaic.html:1-50
-Searched for "mosaic"
-Edited mosaic.html
-Listed directory css
-Viewed go.mod:1-6
-Viewed mosaic.html:1-178
+# Project Context: academic-website
 
-I have implemented the modal functionality for your photography mosaic.
+This repository contains the source code for Janeet Bajracharya's academic website, built using Hugo.
 
-### Changes Made:
-1.  **Modified [layouts/shortcodes/mosaic.html](cci:7://file:///Users/janeetbajracharya/Desktop/Code/academic-website/layouts/shortcodes/mosaic.html:0:0-0:0)**:
-    *   Added **CSS styling** for a premium-feeling modal with a blurred backdrop (`backdrop-filter: blur(8px)`) and a dimmed background.
-    *   Implemented **JavaScript logic** to:
-        *   Automatically detect all images within a mosaic.
-        *   Handle clicking on an image to open it in a fullscreen modal.
-        *   Display the image's **alt text** as a caption beneath the image in the modal.
-        *   Provide multiple ways to close the modal: a close button (`×`), clicking on the darkened background, or pressing the `Escape` key.
-    *   Added a hover effect (`scale(1.02)`) and a pointer cursor to the mosaic images to indicate they are interactive.
-    *   Ensured the script is robust and doesn't duplicate the modal element if multiple mosaics are used on the same page.
+## Technology Stack & Theme
+- **Framework:** Hugo (Go modules enabled)
+- **Theme:** `terminal` (`github.com/panr/hugo-theme-terminal/v4` via Hugo Modules)
+- **Configuration:** [config.toml](file:///Users/janeetbajracharya/Desktop/Code/academic-website/config.toml)
 
-### How it looks:
-*   **Mosaic Layout:** Images remain in their original mosaic grid.
-*   **Interaction:** Clicking any image opens it in a smooth, fullscreen overlay.
-*   **Aesthetics:** The background dims and blurs, highlighting the image. The description (alt text) is centered beneath the image in a clear, readable font that matches your theme.
+## Key Configurations & Customizations
 
-You can now add more images to your [content/photography.md](cci:7://file:///Users/janeetbajracharya/Desktop/Code/academic-website/content/photography.md:0:0-0:0) like this, and they will automatically support the modal:
+### 1. Last Updated Dates
+- Configured in [config.toml](file:///Users/janeetbajracharya/Desktop/Code/academic-website/config.toml) to automatically update the last modified dates of pages when changes are made.
+- Settings enabled:
+  - `enableGitInfo = true`
+  - `showLastUpdated = true` (under `[params]`)
+  - `[frontmatter] lastmod = [":git", ":fileModTime", "lastmod", "date"]` (prioritizes Git commit timestamps first, falling back to local file modification times on disk, then frontmatter parameters).
 
-```markdown
-{{< mosaic >}}
-![Description of first image](/images/photo-1.jpg)
-![Description of second image](/images/photo-2.jpg)
-{{</ mosaic >}}
-```
+### 2. Photography Mosaic Modal Customization
+- **Shortcode:** [mosaic.html](file:///Users/janeetbajracharya/Desktop/Code/academic-website/layouts/shortcodes/mosaic.html)
+- **Features:**
+  - Responsive image grid layout.
+  - Interactive modal popup with a blurred backdrop (`backdrop-filter: blur(8px)`) and a dimmed background.
+  - Automatically extracts image `alt` text to display as centered captions in the modal.
+  - Multi-method modal closing (click outside, press `Escape`, or click close `×` button).
+  - Hover effects on images (`scale(1.02)`) indicating interactivity.
 
-No further configuration is required!
+## Directory Structure & Important Files
+- `content/` - Contains website content pages (markdown).
+  - [photography.md](file:///Users/janeetbajracharya/Desktop/Code/academic-website/content/photography.md) - Displays Fuji XE-3 photos using the `{{< mosaic >}}` shortcode.
+  - [about.md](file:///Users/janeetbajracharya/Desktop/Code/academic-website/content/about.md)
+  - [personal.md](file:///Users/janeetbajracharya/Desktop/Code/academic-website/content/personal.md)
+- `layouts/` - Custom templates.
+  - `layouts/shortcodes/mosaic.html` - The photography grid + modal component.
+- `static/` - Static assets like custom CSS, JavaScript, and images (e.g. `static/images/photography/`).
