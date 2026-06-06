@@ -4,8 +4,9 @@ date: 2025-12-30
 draft: false
 no-index: true
 ---
-Currently: Lexington, VA @ Washington and Lee University. Working on my Honors Thesis!!!!! 
+Currently: Probably taking a siesta for the summer. Starting a PhD program this summer @UVA.
 
+Previously: Lexington, VA @ Washington and Lee University. Working on my Honors Thesis!!!!! 
 
 Here are some further links to some personal things that I enjoy and would like to share:
 
