@@ -1,5 +1,14 @@
 <div class="mosaic-grid" id="mosaic-{{ .Ordinal }}">
-  {{ .Inner | markdownify }}
+  {{ $inner := .Inner }}
+  {{ $lines := split $inner "\n" }}
+  {{ range $lines }}
+    {{ $line := trim . " \t\r" }}
+    {{ if findRE `!\[.*\]\(.*\)` $line }}
+      {{ $alt := replaceRE `^!\[(.*)\]\(.*\)$` "$1" $line }}
+      {{ $src := replaceRE `^!\[.*\]\((.*?)\s*\)$` "$1" $line }}
+      <p><img src="{{ $src | relURL }}" alt="{{ $alt }}"></p>
+    {{ end }}
+  {{ end }}
 </div>
 
 <style>
