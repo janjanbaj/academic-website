@@ -1,8 +1,7 @@
-# baseurl = "https://janeetbajracharya.com.np"
-baseURL = '/'
-relativeURLs = true
-
+baseURL = "https://janjanbaj.github.io/academic-website/"
 languageCode = "en-us"
+
+
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
@@ -101,21 +100,21 @@ enableGitInfo = true
 
       [languages.en.params.logo]
         logoText = "Janeet Bajracharya"
-        logoHomeLink = "/about"
+        logoHomeLink = "/about/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About"
-          url = "./about"
+          url = "/about/"
         [[languages.en.menu.main]]
           identifier = "cv"
           name = "CV"
-          url = "./pdf/cv.pdf"
+          url = "/pdf/cv.pdf"
         [[languages.en.menu.main]]
           identifier = "Ps"
           name = "Personal"
-          url = "./personal"
+          url = "/personal/"
 
         [[languages.en.menu.main]]
           identifier = "linkedin"

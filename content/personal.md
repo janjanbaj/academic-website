@@ -11,9 +11,9 @@ Previously: Lexington, VA @ Washington and Lee University. Working on my Honors 
 Here are some further links to some personal things that I enjoy and would like to share:
 
 
-# [TV-Shows](./tv-shows)
-# [Books](./books)
-# [Photography](./photography)
+# [TV-Shows](/tv-shows/)
+# [Books](/books/)
+# [Photography](/photography/)
 # [Movies (i.e Letterboxd)](https://letterboxd.com/janjanjanbaj/)
 # [Music (i.e Spotify)](https://open.spotify.com/user/janeetbaj)
-# [Custom Rule Set Game of Life](./gol)
+# [Custom Rule Set Game of Life](/gol/)
