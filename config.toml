@@ -107,15 +107,15 @@ enableGitInfo = true
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About"
-          url = "/about"
+          url = "./about"
         [[languages.en.menu.main]]
           identifier = "cv"
           name = "CV"
-          url = "/pdf/cv.pdf"
+          url = "./pdf/cv.pdf"
         [[languages.en.menu.main]]
           identifier = "Ps"
           name = "Personal"
-          url = "/personal"
+          url = "./personal"
 
         [[languages.en.menu.main]]
           identifier = "linkedin"
