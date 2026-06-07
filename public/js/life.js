@@ -1,19 +1,19 @@
 (function() {
     function getRandomHexColorConcise() {
-        return "#" + Math.floor(Math.random()*16777215).toString(16).padStart(6, '0');
+        return "#" + Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0');
     }
 
 
     const canvas = document.getElementById('game-of-life-canvas');
     const ctx = canvas.getContext('2d');
-    const colors = [getRandomHexColorConcise(),getRandomHexColorConcise(), getRandomHexColorConcise()]
-    
+    const colors = [getRandomHexColorConcise(), getRandomHexColorConcise(), getRandomHexColorConcise()]
+
     // Configurationn
     const cellSize = 10; // Size of the squares
     const cellColor = '#1e90ff'; // Google-like blue
     const updateInterval = 100; // Speed in ms (lower is faster)
     const density = 0.1; // 10% of screen initially alive
-    
+
     let grid = [];
     let cols, rows;
     let animationId;
@@ -30,18 +30,18 @@
     function initGrid() {
         grid = new Array(cols).fill(null)
             .map(() => new Array(rows).fill(0)
-            .map(() => Math.random() < density ? 1 : 0));
+                .map(() => Math.random() < density ? 1 : 0));
     }
 
     function initGridSpirals() {
         grid = new Array(cols).fill(null)
             .map(() => new Array(rows).fill(0)
-            .map(() => Math.floor(Math.random()*colors.length)));
+                .map(() => Math.floor(Math.random() * colors.length)));
     }
 
     function draw() {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
-        
+
         for (let i = 0; i < cols; i++) {
             for (let j = 0; j < rows; j++) {
                 if (grid[i][j]) {
@@ -55,43 +55,43 @@
         }
     }
 
-//    function draw() {
-//        ctx.clearRect(0, 0, canvas.width, canvas.height);
-//        ctx.fillStyle = cellColor;
-//        
-//        for (let i = 0; i < cols; i++) {
-//            for (let j = 0; j < rows; j++) {
-//                if (grid[i][j]) {
-//                    ctx.beginPath();
-//                    // Draw cell slightly smaller than grid to create "grid line" effect
-//                    ctx.rect(i * cellSize, j * cellSize, cellSize - 2, cellSize - 2);
-//                    ctx.fill();
-//                }
-//            }
-//        }
-//    }
-//
+    //    function draw() {
+    //        ctx.clearRect(0, 0, canvas.width, canvas.height);
+    //        ctx.fillStyle = cellColor;
+    //        
+    //        for (let i = 0; i < cols; i++) {
+    //            for (let j = 0; j < rows; j++) {
+    //                if (grid[i][j]) {
+    //                    ctx.beginPath();
+    //                    // Draw cell slightly smaller than grid to create "grid line" effect
+    //                    ctx.rect(i * cellSize, j * cellSize, cellSize - 2, cellSize - 2);
+    //                    ctx.fill();
+    //                }
+    //            }
+    //        }
+    //    }
+    //
     function update_spirals() {
         let nextGrid = grid.map(arr => [...arr]);
 
         for (let i = 0; i < cols; i++) {
             for (let j = 0; j < rows; j++) {
                 const state = (grid[i][j] + 1) % colors.length;
-                
+
                 let neighbors = 0;
                 for (let x = -1; x < 2; x++) {
                     for (let y = -1; y < 2; y++) {
                         if (x === 0 && y === 0) continue;
-                        
+
                         const col = (i + x + cols) % cols;
                         const row = (j + y + rows) % rows;
-                        if (grid[col][row] == state){
+                        if (grid[col][row] == state) {
                             neighbors += 1;
                         };
 
                     }
-                    if (neighbors > 2){
-                        nextGrid[i][j] = state; 
+                    if (neighbors > 2) {
+                        nextGrid[i][j] = state;
                         break;
                     }
                 }
@@ -107,13 +107,13 @@
         for (let i = 0; i < cols; i++) {
             for (let j = 0; j < rows; j++) {
                 const state = grid[i][j];
-                
+
                 // Count live neighbors
                 let neighbors = 0;
                 for (let x = -1; x < 2; x++) {
                     for (let y = -1; y < 2; y++) {
                         if (x === 0 && y === 0) continue;
-                        
+
                         const col = (i + x + cols) % cols;
                         const row = (j + y + rows) % rows;
                         neighbors += grid[col][row];

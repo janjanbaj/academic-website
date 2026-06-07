@@ -1,44 +1,58 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://janeetbajracharya.com.np/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <loc>/photography/</loc>
+    <lastmod>2026-06-05T14:55:26-05:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/projects/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <loc>/thoughts/</loc>
+    <lastmod>2026-03-26T17:12:12-04:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/tv-shows/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <loc>/projects/</loc>
+    <lastmod>2026-03-20T20:50:19+05:45</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/books/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <loc>/tv-shows/</loc>
+    <lastmod>2026-05-21T22:54:53-04:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/personal/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <loc>/books/</loc>
+    <lastmod>2026-05-05T22:45:21-04:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/the-arts/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
+    <loc>/personal/</loc>
+    <lastmod>2026-06-07T11:10:25-05:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/bible/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
+    <loc>/the-arts/</loc>
+    <lastmod>2025-12-30T15:00:05-05:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/cellular-automaton-gallery/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <loc>/bible/</loc>
+    <lastmod>2025-12-25T00:00:08-05:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/gol/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <loc>/cellular-automaton-gallery/</loc>
+    <lastmod>2025-12-25T13:00:06-05:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/cool-tech/</loc>
+    <loc>/gol/</loc>
+    <lastmod>2025-12-16T21:46:16-05:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/cool-things-read/</loc>
+    <loc>/</loc>
+    <lastmod>2026-03-20T15:35:39-04:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/links-notes/</loc>
+    <loc>/cool-tech/</loc>
+    <lastmod>2026-04-02T18:34:35-04:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/about/</loc>
+    <loc>/cool-things-read/</loc>
+    <lastmod>2026-03-20T20:50:19+05:45</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/categories/</loc>
+    <loc>/links-notes/</loc>
+    <lastmod>2026-04-05T19:21:16-04:00</lastmod>
   </url><url>
-    <loc>https://janeetbajracharya.com.np/tags/</loc>
+    <loc>/we-go-ball/</loc>
+    <lastmod>2026-03-22T21:22:53-04:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2026-04-08T10:31:25-04:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
