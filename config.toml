@@ -1,6 +1,6 @@
 # baseurl = "https://janeetbajracharya.com.np"
 baseURL = '/'
-relativeURLs = true
+relativeURLs = false
 
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
