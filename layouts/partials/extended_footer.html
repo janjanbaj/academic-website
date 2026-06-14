@@ -1,0 +1,94 @@
+{{ if and .File (eq .File.BaseFileName "tv-shows") }}
+<script type="text/javascript">
+(function() {
+  document.addEventListener("DOMContentLoaded", function() {
+    const postContent = document.querySelector('.post-content');
+    if (!postContent) return;
+
+    // Find all lists in post-content
+    const lists = postContent.querySelectorAll('ul');
+    lists.forEach(ul => {
+      // Only process top-level lists (the lists of shows per year)
+      // and skip lists nested inside (the reviews themselves)
+      const parent = ul.parentElement;
+      if (parent && !parent.classList.contains('post-content') && parent.tagName !== 'DIV') {
+        return;
+      }
+
+      const listItems = Array.from(ul.children).filter(child => child.tagName === 'LI');
+      listItems.forEach(li => {
+        // Find sublists (ul or ol) directly inside the li representing the reviews
+        const subList = li.querySelector('ul, ol');
+        if (!subList) return; // No review, leave as standard bullet point
+
+        // Ensure subList is a direct child of the li
+        let isDirect = false;
+        for (let i = 0; i < li.children.length; i++) {
+          if (li.children[i] === subList) {
+            isDirect = true;
+            break;
+          }
+        }
+        if (!isDirect) return;
+
+        // Gather all DOM nodes before the subList (the show title and headers)
+        const headerNodes = [];
+        let child = li.firstChild;
+        while (child && child !== subList) {
+          headerNodes.push(child);
+          child = child.nextSibling;
+        }
+
+        // Create details & summary elements
+        const details = document.createElement('details');
+        details.className = 'review-details';
+
+        const summary = document.createElement('summary');
+        summary.className = 'review-summary';
+
+        // Move the header nodes into the summary
+        headerNodes.forEach(node => {
+          if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'P') {
+            // Unpack children of the paragraph tag to prevent extra margins / block styles
+            while (node.firstChild) {
+              summary.appendChild(node.firstChild);
+            }
+          } else {
+            summary.appendChild(node);
+          }
+        });
+
+        // Clean up trailing colons or whitespace from summary text
+        // to make the toggle header look cleaner
+        let lastChild = summary.lastChild;
+        if (lastChild && lastChild.nodeType === Node.TEXT_NODE) {
+          let text = lastChild.textContent.trim();
+          if (text.endsWith(':')) {
+            lastChild.textContent = text.slice(0, -1).trim();
+          }
+        }
+
+        // Fallback text if summary is empty
+        if (!summary.textContent.trim()) {
+          summary.textContent = 'View Review';
+        }
+
+        // Create container for details content
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'review-content';
+        contentDiv.appendChild(subList);
+
+        // Build accordion structure
+        details.appendChild(summary);
+        details.appendChild(contentDiv);
+
+        // Replace content of li with our new details element
+        li.innerHTML = '';
+        li.appendChild(details);
+        li.classList.add('has-review-accordion');
+      });
+    });
+  });
+})();
+</script>
+{{ end }}

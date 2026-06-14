@@ -3,56 +3,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/photography/</loc>
-    <lastmod>2026-06-05T14:55:26-05:00</lastmod>
+    <loc>http://localhost:1313/academic-website/photography/</loc>
+    <lastmod>2026-06-07T11:53:03-05:00</lastmod>
   </url><url>
-    <loc>/thoughts/</loc>
+    <loc>http://localhost:1313/academic-website/thoughts/</loc>
     <lastmod>2026-03-26T17:12:12-04:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>http://localhost:1313/academic-website/projects/</loc>
     <lastmod>2026-03-20T20:50:19+05:45</lastmod>
   </url><url>
-    <loc>/tv-shows/</loc>
-    <lastmod>2026-05-21T22:54:53-04:00</lastmod>
+    <loc>http://localhost:1313/academic-website/tv-shows/</loc>
+    <lastmod>2026-06-07T11:38:23-05:00</lastmod>
   </url><url>
-    <loc>/books/</loc>
-    <lastmod>2026-05-05T22:45:21-04:00</lastmod>
+    <loc>http://localhost:1313/academic-website/books/</loc>
+    <lastmod>2026-06-13T20:43:52-05:00</lastmod>
   </url><url>
-    <loc>/personal/</loc>
-    <lastmod>2026-06-07T11:10:25-05:00</lastmod>
+    <loc>http://localhost:1313/academic-website/personal/</loc>
+    <lastmod>2026-06-07T11:39:25-05:00</lastmod>
   </url><url>
-    <loc>/the-arts/</loc>
+    <loc>http://localhost:1313/academic-website/the-arts/</loc>
     <lastmod>2025-12-30T15:00:05-05:00</lastmod>
   </url><url>
-    <loc>/bible/</loc>
+    <loc>http://localhost:1313/academic-website/bible/</loc>
     <lastmod>2025-12-25T00:00:08-05:00</lastmod>
   </url><url>
-    <loc>/cellular-automaton-gallery/</loc>
+    <loc>http://localhost:1313/academic-website/cellular-automaton-gallery/</loc>
     <lastmod>2025-12-25T13:00:06-05:00</lastmod>
   </url><url>
-    <loc>/gol/</loc>
+    <loc>http://localhost:1313/academic-website/gol/</loc>
     <lastmod>2025-12-16T21:46:16-05:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/academic-website/</loc>
     <lastmod>2026-03-20T15:35:39-04:00</lastmod>
   </url><url>
-    <loc>/cool-tech/</loc>
+    <loc>http://localhost:1313/academic-website/cool-tech/</loc>
     <lastmod>2026-04-02T18:34:35-04:00</lastmod>
   </url><url>
-    <loc>/cool-things-read/</loc>
+    <loc>http://localhost:1313/academic-website/cool-things-read/</loc>
     <lastmod>2026-03-20T20:50:19+05:45</lastmod>
   </url><url>
-    <loc>/links-notes/</loc>
+    <loc>http://localhost:1313/academic-website/links-notes/</loc>
     <lastmod>2026-04-05T19:21:16-04:00</lastmod>
   </url><url>
-    <loc>/we-go-ball/</loc>
+    <loc>http://localhost:1313/academic-website/we-go-ball/</loc>
     <lastmod>2026-03-22T21:22:53-04:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>http://localhost:1313/academic-website/about/</loc>
     <lastmod>2026-04-08T10:31:25-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/academic-website/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/academic-website/tags/</loc>
   </url>
 </urlset>

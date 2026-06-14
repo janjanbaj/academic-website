@@ -14,7 +14,6 @@ A general goal of mine is to read more books! Here is a list of books that I hav
 - Who Gets What — and Why - Alvin Roth
 - Status and Culture - W. David Marx
 
-
 # 2025:
 <!--# 
 - **(In Progress) Hard to be a God - Arkady and Boris Strugatsky**
@@ -22,7 +21,7 @@ A general goal of mine is to read more books! Here is a list of books that I hav
 - If Beale Street Could Talk - James Baldwin
 - Careless People - Sarah Wynn-Williams
 - Everything is Tuberculosis - John Green
-   - Video by [Angela Collier](https://www.youtube.com/@acollierastro) was the reason I listened to this book. 
+   - Rec by [Angela Collier](https://www.youtube.com/@acollierastro) 
 - The Woman in the Dunes - Kobo Abe
    - Watched the Criterion Collection movie of this and was inspired enough to read the book.
    - Suffocating.

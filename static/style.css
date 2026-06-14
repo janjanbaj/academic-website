@@ -1,0 +1,79 @@
+/* Style customizations for the Academic Website */
+
+/* Accordion details container */
+.review-details {
+  border: 1px dashed var(--primary-color, #83a598);
+  border-radius: 4px;
+  margin: 0.5rem 0;
+  background: rgba(255, 255, 255, 0.02);
+  transition: background-color 0.2s ease;
+}
+
+.review-details:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.review-details[open] {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Style the summary (clickable header) */
+.review-summary {
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  list-style: none; /* Hide default arrow */
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  user-select: none;
+  outline: none;
+}
+
+.review-summary::-webkit-details-marker {
+  display: none; /* Hide default arrow in webkit */
+}
+
+/* Custom retro arrow indicator */
+.review-summary::before {
+  content: '▶';
+  display: inline-block;
+  margin-right: 0.6rem;
+  font-size: 0.75rem;
+  color: var(--primary-color, #83a598);
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.review-details[open] > .review-summary::before {
+  transform: rotate(90deg);
+}
+
+/* Style the review content container */
+.review-content {
+  padding: 0.75rem 1rem 0.75rem 1.25rem;
+  border-top: 1px dashed rgba(255, 255, 255, 0.1);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Adjust the list styling inside the review */
+.review-content ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.review-content li {
+  margin-bottom: 0.5rem;
+  list-style-type: square;
+}
+
+.review-content li:last-child {
+  margin-bottom: 0;
+}
+
+/* Remove default list bullet point for list items containing an accordion */
+.post-content li.has-review-accordion {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
