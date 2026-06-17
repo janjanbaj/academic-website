@@ -5,16 +5,23 @@ date: 2026-01-17
 Here are the shows that I have watched in recent memory:
 
 # 2026:
-BALH BLAH
 
-- **Skins - Season 1**:
+- **Dutton Ranch - Season 1 **:
 
-- **The Great - Season 1,2,3 (Current)**:
+- **Sath Rents Flats - Season 1**:
+
+- **Skins - Season 1,2**:
+    - Great show. Cassie is definitely my favorite character. I very much dig the hysteric woman trope and the way Cassie is played out. I am reminded ov the Yellow Wallpaper whenever she is on screen.
+    - Incredibly captivating stories. 
+
+- The Great - Season 1,2,3:
     - Amazing show! Truly funny and well written. The first episode was a masterclass in comedy and world building. Love the intentional omission of historical accuracies.
     - Peter and Catherine have such a tense and amazing arc that makes sense and has played out perfectly. Catherine is much like Peter in many ways.
+    - Thought it ended where it ought to, the narrative was always tight.
 
 - Fargo - Season 1:
     - Loved BBT in it. Not much to say other than solid performance by everyone.
+
 - Yellowstone - Season 1-4:
     - Currently in Episode 1. Only really watch it in the 10 minutes that I take off from TA hours to eat dinner. Been lost as to what is happening in the story but it does look quite sick! I find that one miserable female lead to be uncool and doing too much.
     - Amidst working on my thesis I have found a three hour stretch, subtracted from time that I could be sleeping, to binge watch a good 4 episodes on my way to episode 7! Really like what the show is putting on about now. Beth has really warmed up to me about now and I appreciate her acting a lot more. Cannot unsee how similar this is to Landman especially with Kayce and Cooper being essentially the same character. I really want to work/own a ranch (not the sauce).
