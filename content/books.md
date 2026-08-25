@@ -10,7 +10,7 @@ A general goal of mine is to read more books! Here is a list of books that I hav
 # 2026:
 
 - **(In Progress)** Gödel, Escher, Bach: an Eternal Golden Braid - Douglas Hofstadter [Select Chapters]
-- **(In Progress)** The Man Who Solved the Market - Gregory Zuckerman
+- The Man Who Solved the Market - Gregory Zuckerman
 - Who Gets What — and Why - Alvin Roth
 - Status and Culture - W. David Marx
 

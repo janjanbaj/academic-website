@@ -6,12 +6,11 @@ Here are the shows that I have watched in recent memory:
 
 # 2026:
 
-- **House of the Dragon - Season 3**:
-    - Poggers !
+- ** Rectify - Season 1 **
 
-- **Dutton Ranch - Season 1 **:
-
-- **Sath Rents Flats - Season 1**:
+- House of the Dragon - Season 3:
+- Dutton Ranch - Season 1: Stopped Watching for now. 
+- Sath Rents Flats - Season 1: Stopped Watching for now. 
 
 - Skins - Season 1,2:
     - Great show. Cassie is definitely my favorite character. I very much dig the hysteric woman trope and the way Cassie is played out. I am reminded ov the Yellow Wallpaper whenever she is on screen.
