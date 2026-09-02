@@ -4,7 +4,8 @@ date: 2025-12-30
 draft: false
 no-index: true
 ---
-Currently: Probably taking a siesta somewhere. Working on some internal tool called OPM for a business somewhere. Starting a PhD program this summer @UVA.
+Currently: First Year PhD Student @ UVA!
+ 
 
 Previously: Lexington, VA @ Washington and Lee University. Working on my Honors Thesis!!!!! 
 
