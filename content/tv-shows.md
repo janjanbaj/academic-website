@@ -6,9 +6,12 @@ Here are the shows that I have watched in recent memory:
 
 # 2026:
 
+- ** Rewatching Mad Men - Season 1-5 **:
+    - absolute cinema.
+    - ![Don Draper](https://media1.tenor.com/m/MR8hFd3PSEIAAAAd/mad-men-cinema.gif)
 - ** Rectify - Season 1 **
 
-- House of the Dragon - Season 3:
+- House of the Dragon - Season 3
 - Dutton Ranch - Season 1: Stopped Watching for now. 
 - Sath Rents Flats - Season 1: Stopped Watching for now. 
 
