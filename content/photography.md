@@ -15,3 +15,6 @@ Some pictures that I have taken with my Fujifilm XE-3.
 ![Play by Lake](./images/photography/play.jpg)
 ![Run](./images/photography/DSCF1479.jpg)
 {{</ mosaic >}}
+
+- **FUN WHIMSY FROM MY PHONE **
+   - ![Merica](./images/photography/merica.png)
