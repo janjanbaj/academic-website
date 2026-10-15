@@ -16,5 +16,5 @@ Some pictures that I have taken with my Fujifilm XE-3.
 ![Run](./images/photography/DSCF1479.jpg)
 {{</ mosaic >}}
 
-- **FUN WHIMSY FROM MY PHONE **
+- FUN WHIMSY FROM MY PHONE
    - ![Merica](./images/photography/merica.png)
