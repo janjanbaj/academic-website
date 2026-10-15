@@ -16,7 +16,7 @@ Some pictures that I have taken with my Fujifilm XE-3.
 ![Run](./images/photography/DSCF1479.jpg)
 {{</ mosaic >}}
 
-- FUN WHIMSY FROM MY PHONE:
+- There are cathedrals everywhere for those with the eyes to see - From My Phone:
 {{< mosaic >}}
 ![Merica](./images/photography/merica.png)
 ![Either Kiwi or Mocho](./images/photography/kiwi-or-mochi.jpg)
