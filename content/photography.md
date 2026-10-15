@@ -19,6 +19,7 @@ Some pictures that I have taken with my Fujifilm XE-3.
 - FUN WHIMSY FROM MY PHONE:
 {{< mosaic >}}
 ![Merica](./images/photography/merica.png)
+![Either Kiwi or Mocho](./images/photography/kiwi-or-mochi.jpg)
 {{</ mosaic >}}
 
 
