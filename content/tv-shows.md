@@ -6,9 +6,14 @@ Here are the shows that I have watched in recent memory:
 
 # 2026:
 
-- ** Rewatching Mad Men - Season 1-5 **:
+- **Newsroom**:
+    - Sorkinisms through and through but I am here for it. I tune out most of it.
+
+- Rewatched Mad Men - Season 1-6 [Matt Weiner's Commentary]:
     - ![Don Draper](https://media1.tenor.com/m/MR8hFd3PSEIAAAAd/mad-men-cinema.gif)
-    - absolute cinema.
+    - Absolute Cinema.
+    - always a new perspective to gain watching this show at different points in life. 
+
 - ** Rectify - Season 1 **
 
 - House of the Dragon - Season 3
