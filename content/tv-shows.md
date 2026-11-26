@@ -6,7 +6,7 @@ Here are the shows that I have watched in recent memory:
 
 # 2026:
 
-- Andor:
+- Andor ⭐:
     - Absolute Cinema. 
 - Daisy Jones and The Six
 - Newsroom:
@@ -17,7 +17,7 @@ Here are the shows that I have watched in recent memory:
     - Absolute Cinema.
     - always a new perspective to gain watching this show at different points in life. 
 
-- ** Rectify - Season 1 **
+- Rectify - Season 1
 
 - House of the Dragon - Season 3
 - Dutton Ranch - Season 1: Stopped Watching for now. 
