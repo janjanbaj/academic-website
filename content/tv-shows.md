@@ -6,7 +6,10 @@ Here are the shows that I have watched in recent memory:
 
 # 2026:
 
-- **Newsroom**:
+- Andor:
+    - Absolute Cinema. 
+- Daisy Jones and The Six
+- Newsroom:
     - Sorkinisms through and through but I am here for it. I tune out most of it.
 
 - Rewatched Mad Men - Season 1-6 [Matt Weiner's Commentary]:
