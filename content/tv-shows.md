@@ -5,7 +5,7 @@ date: 2026-01-17
 Here are the shows that I have watched in recent memory:
 
 # 2026:
-
+- The Diplomat - Season 4
 - Andor ⭐:
     - Absolute Cinema. 
 - Daisy Jones and The Six
